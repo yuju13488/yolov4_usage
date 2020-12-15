@@ -2,4 +2,4 @@
 Usage for yolov4, include install, training by own data and test.
 
 Fist, open step_install_GPU.ipynb, all teaching materials inside.
-![image]https://github.com/yuju13488/yolov4_usage/blob/master/fold_path.png
+![image]fold_path.png
